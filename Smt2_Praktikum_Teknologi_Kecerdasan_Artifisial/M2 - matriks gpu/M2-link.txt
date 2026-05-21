@@ -1,0 +1,17 @@
+M2 - link
+
+
+2.1 mengenal data science
+https://www.youtube.com/watch?v=mkKus_rQ7lU
+
+
+2.2 matriks
+https://www.youtube.com/watch?v=7TayuoxIyTg
+
+
+2.3 konvolusi
+https://www.youtube.com/watch?v=ZSByvNp5hKU&t=1s
+
+
+praktikum matriks
+https://www.youtube.com/watch?v=Ovs76DGRM5c&t=1s

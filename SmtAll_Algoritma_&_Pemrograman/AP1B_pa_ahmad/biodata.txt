@@ -1,0 +1,4 @@
+Latihan Pembacaan Teks
+Nama        : Maul
+NPM         : 50425612
+Kelas       : 1IA04
