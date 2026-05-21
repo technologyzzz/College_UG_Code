@@ -43,7 +43,7 @@ public class p2_input_output {
         System.out.println("Alamat: " + alamat);
         System.out.println("Usia: " + usia + " tahun");
         System.out.println("Gaji: Rp " + gaji);
-        
+
     
         
     //YOUR NAME - BUFFERED READER

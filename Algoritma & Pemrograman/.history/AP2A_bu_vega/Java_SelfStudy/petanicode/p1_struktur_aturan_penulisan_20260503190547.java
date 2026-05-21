@@ -6,7 +6,7 @@ public class p1_struktur_aturan_penulisan { // 3. public class dan class dalam O
     public static void main(String args[]){ // 4. public static void main string args
     
     //HELLO WORD
-        System.out.print("Hello World"); // println sederhana
+        System.out.println("Hello World"); // println sederhana
     
     //DATADIRI    
         //mendefinisikan tipe data variable
